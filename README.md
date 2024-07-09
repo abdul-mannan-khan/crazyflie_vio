@@ -40,6 +40,11 @@ Execute the script to start the flight sequence:
 ```
 python vicon_mocap_hl_commander_20240123.py
 ```
+
+## Video Demonstration
+For a full demonstration of the setup and execution, watch our video here:
+[Watch the Video](https://youtube.com/shorts/4ffRYZYpAkc)
+ 
 ## Contributing
 Contributions to enhance this project are welcome. Please fork the repository and submit a pull request with your improvements.
 

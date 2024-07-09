@@ -1,7 +1,8 @@
 # Motion Capture to Crazyflie Control System
 
 ## Overview
-This project integrates real-time motion capture data to control a Crazyflie drone's trajectory via a high-level command interface. The software is designed to support various motion capture systems by using the motioncapture library, making it versatile for different setups.
+This project integrates real-time motion capture data to control a Crazyflie drone's trajectory via a high-level command interface. The software is designed to support various motion capture systems by using the motioncapture library, making it versatile for different setups. For a full demonstration of the setup and execution, watch our video here:
+[Watch the Video](https://youtube.com/shorts/4ffRYZYpAkc)
 
 ## Features
 - **Motion Capture Integration:** Supports major motion capture systems such as Vicon, OptiTrack, Qualisys, and others.
@@ -42,7 +43,7 @@ python vicon_mocap_hl_commander_20240123.py
 ```
 
 ## Video Demonstration
-For a full demonstration of the setup and execution, watch our video here:
+The video is uploaded here. 
 [Watch the Video](https://youtube.com/shorts/4ffRYZYpAkc)
  
 ## Contributing

@@ -28,4 +28,12 @@ Set the URI of your Crazyflie and the hostname of your motion capture system in 
 
 ```bash
 uri = 'radio://0/80/2M/E7E7E7E7E7'  # Update as needed
-host_name = '192.168.0.50'  # Update with your mocap system's address
+host_name = '192.168.0.50'  # Update with your mocap system's address```
+
+~va
+a
+Usage
+To run the project:
+
+Make sure the Crazyflie and the motion capture system are powered and operational.
+Execute the script to start the flight sequence:

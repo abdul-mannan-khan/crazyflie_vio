@@ -21,3 +21,11 @@ This project integrates real-time motion capture data to control a Crazyflie dro
    ```bash
    pip install cflib
    pip install motioncapture
+
+
+#### Configuration
+Set the URI of your Crazyflie and the hostname of your motion capture system in the script:
+
+```bash
+uri = 'radio://0/80/2M/E7E7E7E7E7'  # Update as needed
+host_name = '192.168.0.50'  # Update with your mocap system's address

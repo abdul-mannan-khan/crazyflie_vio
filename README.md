@@ -38,7 +38,7 @@ Make sure the Crazyflie and the motion capture system are powered and operationa
 Execute the script to start the flight sequence:
 
 ```
-python your_script_name.py
+python vicon_mocap_hl_commander_20240123.py
 ```
 ## Contributing
 Contributions to enhance this project are welcome. Please fork the repository and submit a pull request with your improvements.
